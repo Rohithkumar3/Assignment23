@@ -1,0 +1,7 @@
+C:\simplilearn\Day-18\Assignment23\Assignment23\bin\Debug\Assignment23.exe.config
+C:\simplilearn\Day-18\Assignment23\Assignment23\bin\Debug\Assignment23.exe
+C:\simplilearn\Day-18\Assignment23\Assignment23\bin\Debug\Assignment23.pdb
+C:\simplilearn\Day-18\Assignment23\Assignment23\obj\Debug\Assignment23.csproj.AssemblyReference.cache
+C:\simplilearn\Day-18\Assignment23\Assignment23\obj\Debug\Assignment23.csproj.CoreCompileInputs.cache
+C:\simplilearn\Day-18\Assignment23\Assignment23\obj\Debug\Assignment23.exe
+C:\simplilearn\Day-18\Assignment23\Assignment23\obj\Debug\Assignment23.pdb
